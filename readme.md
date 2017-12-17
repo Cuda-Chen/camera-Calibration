@@ -1,9 +1,9 @@
 compile information of caliTest.cpp and cameraCalibration.cpp:
-language: C++
-IDE: code::block 12.11
-compiler: gcc ver. 4.7.1 (tdm-1) with MinGW
-openCV ver.: 2.4.13
-problem you may encounter: cannot search file using absolute path(both programs)
+* language: C++
+* IDE: code::block 12.11
+* compiler: gcc ver. 4.7.1 (tdm-1) with MinGW
+* openCV ver.: 2.4.13
+* problem you may encounter: cannot search file using absolute path(both programs)
 
 caliTest.cpp
 
